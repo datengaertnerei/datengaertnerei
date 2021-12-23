@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jens!
+
+I am team lead at elbformat in Hamburg, Germany. Sometimes I write code. Sometimes it is even useful.
 
 ![languages](https://img.shields.io/badge/-languages-lightgrey?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-lightgrey?logo=Java)
@@ -40,19 +42,3 @@
 <a href="https://stackoverflow.com/users/story/10937788">
   <img align="left" alt="StackOverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-
-
-<!--
-**datengaertnerei/datengaertnerei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
