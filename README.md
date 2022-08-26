@@ -39,6 +39,6 @@ I am team lead at elbformat in Hamburg, Germany. Sometimes I write code. Sometim
 <a href="https://www.xing.com/profile/Jens_Dibbern">
   <img align="left" alt="Xing" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
 </a>
-<a href="https://stackoverflow.com/users/story/10937788">
+<a href="https://stackoverflow.com/users/10937788/jens-dibbern">
   <img align="left" alt="StackOverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
