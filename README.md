@@ -30,14 +30,11 @@ I am team lead at elbformat in Hamburg, Germany. Sometimes I write code. Sometim
 ![CircleCI](https://img.shields.io/badge/-CircleCI-lightgrey?logo=CircleCI)
 ![GitLab](https://img.shields.io/badge/-GitLab-lightgrey?logo=GitLab)
 
-<a href="https://twitter.com/datengaertner">
-  <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/jensdibbern">
   <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.xing.com/profile/Jens_Dibbern">
-  <img align="left" alt="Xing" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
+<a rel="me" href="https://mastodon.social/@datengaertner">
+  <img align="left" alt="Mastodon" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10937788/jens-dibbern">
   <img align="left" alt="StackOverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
