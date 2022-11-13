@@ -1,6 +1,6 @@
 ### Hi, I'm Jens!
 
-I am team lead at elbformat in Hamburg, Germany. Sometimes I write code. Sometimes it is even useful. Have a look at my [Gists](https://gist.github.com/datengaertnerei) as well.
+I am working in Quality Engineering at Jungheinrich AG in Hamburg, Germany. Sometimes I write code. Sometimes it is even useful. Have a look at my [Gists](https://gist.github.com/datengaertnerei) as well.
 
 ![languages](https://img.shields.io/badge/-languages-lightgrey?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-lightgrey?logo=Java)
