@@ -30,8 +30,6 @@ I am working in Quality Engineering at Jungheinrich AG in Hamburg, Germany. Some
 ![CircleCI](https://img.shields.io/badge/-CircleCI-lightgrey?logo=CircleCI)
 ![GitLab](https://img.shields.io/badge/-GitLab-lightgrey?logo=GitLab)
 
-<div style="vertical-align: middle;">
-
 <a href="https://linkedin.com/in/jensdibbern">
   <img align="left" alt="LinkedIn" height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />
 </a>
@@ -43,5 +41,3 @@ I am working in Quality Engineering at Jungheinrich AG in Hamburg, Germany. Some
 </a>
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/107653763570727266?domain=https%3A%2F%2Fmastodon.social)
-
-</div>
