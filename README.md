@@ -37,7 +37,7 @@ I am working in Quality Engineering at Jungheinrich AG in Hamburg, Germany. Some
   <img align="left" alt="StackOverflow" height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/stackoverflow.svg" />
 </a>
 <a href="https://datengaertnerei.github.io/">
-  <img align="left" alt="GitHub Pages Datengärtnerei" height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/githubpages.svg" />
+  <img align="left" alt="GitHub Pages Datengärtnerei" height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/html5.svg" />
 </a>
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/107653763570727266?domain=https%3A%2F%2Fmastodon.social)
